@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Pierre
+- 🌱 I’m currently learning Back End development
