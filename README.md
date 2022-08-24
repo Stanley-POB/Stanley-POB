@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Pierre
-- 🌱 I’m currently learning Back End development
+- 🌱 I’m currently learning Front End (JavaScript) Back End (Python, SQL) development
